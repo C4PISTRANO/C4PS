@@ -3,6 +3,11 @@
     <img src="./img/logo.png" alt="logo c4psula">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/C4PISTRANO/C4PSULA">
+    <img src="./img/preview.png" alt="celular">
+  </a>
+</p>
 
 <h1 align="center">Sua nova rede social</h1>
 A C4PSULA é uma rede social, onde os usuários podem compartilhar fotos e vídeos com seus seguidores. 
