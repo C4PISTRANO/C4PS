@@ -1,5 +1,5 @@
-# C4PS - Sua nova rede social
-A SOCi4L é uma rede social, onde os usuários podem compartilhar fotos e vídeos com seus seguidores. 
+# C4PSULA - Sua nova rede social
+A C4PSULA é uma rede social, onde os usuários podem compartilhar fotos e vídeos com seus seguidores. 
 
 Inspirada no conceito do Instagram, essa plataforma oferece uma interface intuitiva e amigável, permitindo que os usuários criem perfis, sigam outras pessoas e interajam por meio de curtidas, comentários e compartilhamentos. 
 
