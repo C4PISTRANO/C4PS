@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/C4PISTRANO/C4PSULA">
-    <img src="./img/preview.png" alt="celular">
+    <img src="./img/preview.png" alt="celular" width="300px">
   </a>
 </p>
 
