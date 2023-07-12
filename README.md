@@ -5,6 +5,6 @@ Inspirada no conceito do Instagram, essa plataforma oferece uma interface intuit
 
 Os usuários têm a liberdade de compartilhar momentos do seu dia a dia, como viagens, refeições, paisagens, eventos e muito mais. 
 
-Além disso, a SOCi4L também oferece recursos de edição de fotos e filtros para personalizar as imagens antes de compartilhá-las. 
+Além disso, a C4PSULA também oferece recursos de edição de fotos e filtros para personalizar as imagens antes de compartilhá-las. 
 
 Com uma comunidade diversificada de usuários, essa plataforma proporciona uma experiência social envolvente, permitindo que as pessoas se conectem e descubram novas inspirações por meio de conteúdos visuais.
