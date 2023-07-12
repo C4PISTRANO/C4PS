@@ -22,3 +22,4 @@ Com uma comunidade diversificada de usuários, essa plataforma proporciona uma e
 
 <hr>
 <p align="center">Copyright © 2023 <a href="https://github.com/C4PISTRANO"><B>C4PISTRANO</B></a>. Todos os direitos reservados.</p>
+
